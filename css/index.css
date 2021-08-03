@@ -1,0 +1,107 @@
+.body{
+    font-size: 15px ;
+
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+    background: #2D2F3B;
+
+}
+.cont2{
+    background: #F2F2F2;
+}
+.line1{
+    font-family: Consolas;
+    font-size: 18px;
+}
+.info1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+.ico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.porta{
+    background: #2D2F3B;
+    color: #666D89 ;
+   padding-left: 20px;
+   flex-wrap: wrap;
+}
+.subti{
+    font-size: 21px;
+}
+.selec{
+    color: #656C88;
+    border: 2px solid #757E9D;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.all{
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+}
+.select{
+    font-size: 15px;
+}
+.tex{
+    padding-top:  20px;
+    margin-bottom: 20px;
+}
+.imagin{
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.Person{
+    background: white;
+
+}
+.textper, .imgper{
+    color: #686D8B;
+    padding: 20px;
+
+    
+}
+
+.person1
+{
+    display: flex;
+    justify-content: space-between;
+        
+}
+.ingre{
+    display: flex;
+    background: #f16c65;
+    color: #f0d7d8;
+    flex-wrap: wrap;
+
+    padding: 30px;
+
+    justify-content: space-around;
+}
+
+.control{
+    background: #f16c65;
+    color: #f0d7d8;
+}
+.infor{
+    font-size: 20px;
+}
+.Cierre{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #2D2F3B;
+    margin: 0px;
+    color:#f0d7d8 ;
+
+}
